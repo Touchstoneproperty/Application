@@ -42,16 +42,16 @@ body {
   justify-content: center;
 }
 .container .image-logo img {
-  width: 9rem;
-  border-radius:20%;
+  width: 10rem;
+  border-radius: 50%;
 }
 
 .container h4 {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: #ffffff;
   width: 100%;
   background: green;
-  letter-spacing: 2px;
+  letter-spacing: 4px;
   font-weight: 400;
   text-align: center;
 }
